@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /
-User-agent: vitals.vercel-insights.com
+User-agent: chatgpt.bcloud.store
 Allow: /
